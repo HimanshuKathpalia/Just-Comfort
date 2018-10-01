@@ -1,6 +1,10 @@
 header form.customform input,header form.customform button {                                                                                                             
   margin-bottom: 0;
 }
+.s-12 m-12 l-4 xl-3 xxl-3{
+  width:auto
+    height:auto
+}
 
 img.logo { 
   max-width: 170px;
